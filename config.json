@@ -1,5 +1,5 @@
 {
-    "rpcUrl": "https://api.devnet.solana.com",
+    "rpcUrl": "https://api.mainnet-beta.solana.com",
     "maxSignatures": 2,
     "lamportsPerSignature": 5000,
     "corsOrigin": true,
@@ -10,7 +10,7 @@
                     "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
                     "account": "3QLF5hiUJZaAu53CbcwFRvhyKv9r94ygQCsMrFtvi8FD",
                     "decimals": 6,
-                    "fee": 10000000
+                    "fee": 100000
                 }
             ]
         }
